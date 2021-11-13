@@ -1,5 +1,8 @@
 # Project Euler
+![euler](https://github.com/Alekselion/project-euler/blob/master/euler.png)
+
 [Euler problem](https://projecteuler.net/about) solving as a programming practice.
+
 1-10|11-20
 ----|-----
 [problem 1](https://github.com/Alekselion/project-euler/blob/master/task1.py) | [problem 11](https://github.com/Alekselion/project-euler/blob/master/task11.py)
